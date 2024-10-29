@@ -1,9 +1,9 @@
 +++
 date = '2024-10-28T14:31:13+01:00'
 draft = false
-title = 'Al principio fue el verbo...'
+title = 'Docker vs. Podman'
 +++
-**Resumen de la presentación de Podman**
+**Podman: Una alternativa "ligera" a Docker, con la seguridad como punto de partida**
 
 La presentación de Podman, una alternativa a Docker, destaca las ventajas de esta herramienta en la administración de contenedores. A continuación, se presentan los puntos clave de la presentación:
 
