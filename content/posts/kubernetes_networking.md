@@ -1,6 +1,6 @@
 +++
 date = '2024-11-04T12:49:33+01:00'
-title = 'Kubernetes_networking'
+title = 'Kubernetes & Networking'
 +++
 **Kubernetes Networks 101**
 
