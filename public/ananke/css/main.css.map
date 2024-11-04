@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/tor/datox/projects/hugo/quickstart",
+	"sourceRoot": "/home/tor/datox/projects/gamusinadas",
 	"sources": [
 		"ananke/css/main.css"
 	],

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gamusinadas</title>
-    <link>https://torenzunza.github.io/gamusinadas/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Gamusinadas</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <atom:link href="https://torenzunza.github.io/gamusinadas/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
