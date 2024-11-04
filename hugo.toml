@@ -1,5 +1,3 @@
-#baseURL = 'https://gamusinadas.gamusino.cc'
-#baseURL = 'https://torenzunza.github.io/gamusinadas/'
 languageCode = 'es-es'
 title = 'Gamusinadas'
 theme = 'ananke'
